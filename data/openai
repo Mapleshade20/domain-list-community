@@ -1,9 +1,11 @@
 # Main domain
 ai.com
 chatgpt.com
+chat.com
 oaistatic.com
 oaiusercontent.com
 openai.com
+sora.com
 
 # CDN & API
 openai.com.cdn.cloudflare.net
