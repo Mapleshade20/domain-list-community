@@ -1,7 +1,6 @@
 include:apple-ads
 include:apple-dev
 include:apple-pki
-include:apple-tvplus
 include:apple-update
 include:beats
 include:icloud
@@ -1009,6 +1008,7 @@ full:tj-pod1-smp-device.apple.com @cn
 full:updates-http.cdn-apple.com @cn
 full:updates-http.cdn-apple.com.akadns.net @cn
 full:updates.cdn-apple.com @cn
+full:valid.apple.com @cn
 full:valid.origin-apple.com.akadns.net @cn
 full:weather-data.apple.com @cn
 full:weather-data.apple.com.akadns.net @cn
